@@ -1,5 +1,9 @@
 # 💫 About Me:
-👋 Hi! I am currently studying for a Master's degree in Computer Science at Eberhard Karls University of Tübingen. Alongside my studies, I work as a freelancer in the IT industry, developing tailored solutions for clients—from hardware setups to custom software projects. When I'm not busy with university or work, I passionately engage in personal projects to continuously expand my skills.<br><br>Currently, I also assist as a student assistant (Hiwi) at Fraunhofer IPA on the exciting sQUlearn project. 👨‍💻
+👋 Hi! I am currently pursuing a Master's degree in Computer Science at Eberhard Karls University of Tübingen. My main academic interests lie in programming language development, with a particular focus on type systems and algebraic effect systems.
+
+Alongside my studies, I work as a freelancer in the IT industry, developing tailored solutions for clients—from hardware setups to custom software projects. In my free time, I enjoy working on personal and experimental projects, especially those related to language design and implementation, to continuously deepen my understanding of these topics.
+
+Currently, I also work as a student assistant (Hiwi) at Fraunhofer IPA on the [sQUlearn](https://github.com/sQUlearn/squlearn) project. 👨‍💻
 
 
 ## 🌐 Socials:
